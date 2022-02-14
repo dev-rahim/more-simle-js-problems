@@ -17,7 +17,7 @@ console.log( unicqueNames );
 
 
 
-const numbers = [ 12, 23, 52, 25, 25, 25, 32, 52, 523, 262, 62, 62, 62, 35, 20, 20, 20 ];
+const numbers = [ 12, 23, 52, 25, 25, 25, 32, 52, 523, 262, 62, 62, 62, 35, 20, 20, 20, 52 ];
 function getUnicqueNumber( array ) {
     const unicqueNumber = [];
     for ( const elements of array ) {
